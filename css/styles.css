@@ -1,49 +1,61 @@
 h1 {
-    font-family: 'Oxygen', sans-serif;
+    font-family: "Oxygen", sans-serif;
 }
+
 hr {
     background: #7d97ad;
     height: 3px;
 }
+
 .title-container {
     text-align: right;
 }
+
 .oxygen {
-    font-family: 'Oxygen', sans-serif;
+    font-family: "Oxygen", sans-serif;
 }
+
 .main {
     padding-bottom: 50px;
 }
+
 .sidebar {
     padding-top: 30px;
 }
+
 .carousel {
     overflow-x: hidden;
     min-height: 255px;
 }
+
 .featured {
     margin-top: 40px;
 }
+
 .featured-title {
     font-size: 30px;
-    font-family: 'Oxygen', sans-serif;
+    font-family: "Oxygen", sans-serif;
     color: #7d97ad;
     padding: 0 20px;
     margin-bottom: 30px;
 }
+
 .featured-image {
     height: 260px;
     overflow: hidden;
     margin-bottom: 20px;
 }
+
 .featured-image img{
     width: 100%;
 }
+
 .featured h4 {
     font-size: 25px;
-    font-family: 'Oxygen', sans-serif;
+    font-family: "Oxygen", sans-serif;
     text-align: center;
 }
+
 .carousel-item {
     max-height: 458px;
     overflow: hidden;
